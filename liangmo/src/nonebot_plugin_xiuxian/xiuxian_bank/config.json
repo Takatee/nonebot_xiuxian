@@ -1,0 +1,136 @@
+{
+   "BANKLEVEL": {
+      "1": {
+         "savemax": 100000,
+         "levelup": 20000,
+         "interest": 0.001,
+         "level": "普通会员"
+      },
+      "2": {
+         "savemax": 200000,
+         "levelup": 40000,
+         "interest": 0.0013,
+         "level": "小会员"
+      },
+      "3": {
+         "savemax": 400000,
+         "levelup": 80000,
+         "interest": 0.0018,
+         "level": "大会员"
+      },
+      "4": {
+         "savemax": 800000,
+         "levelup": 160000,
+         "interest": 0.0023,
+         "level": "优质会员"
+      },
+      "5": {
+         "savemax": 1600000,
+         "levelup": 320000,
+         "interest": 0.0028,
+         "level": "黄金会员"
+      },
+      "6": {
+         "savemax": 3200000,
+         "levelup": 640000,
+         "interest": 0.0033,
+         "level": "钻石会员"
+      },
+      "7": {
+         "savemax": 6400000,
+         "levelup": 700000,
+         "interest": 0.004,
+         "level": "终极会员"
+      },
+      "8": {
+         "savemax": 7600000,
+         "levelup": 950000,
+         "interest": 0.0041,
+         "level": "究极会员"
+      },
+      "9": {
+         "savemax": 10000000,
+         "levelup": 3550000,
+         "interest": 0.0042,
+         "level": "巅峰会员"
+      },
+      "10": {
+         "savemax": 15000000,
+         "levelup": 6350000,
+         "interest": 0.0043,
+         "level": "天劫会员"
+      },
+      "11": {
+         "savemax": 20000000,
+         "levelup": 10000000,
+         "interest": 0.0044,
+         "level": "天道会员"
+      },
+      "12": {
+         "savemax": 30000000,
+         "levelup": 20000000,
+         "interest": 0.0045,
+         "level": "帝尊会员"
+      },
+      "13": {
+         "savemax": 40000000,
+         "levelup": 30000000,
+         "interest": 0.0046,
+         "level": " 帝王级会员"
+      },
+      "14": {
+         "savemax": 64000000,
+         "levelup": 64000000,
+         "interest": 0.0047,
+         "level": " 神级会员"
+      },
+      "15": {
+         "savemax": 100000000,
+         "levelup": 85000000,
+         "interest": 0.0048,
+         "level": " 超神级会员"
+      },
+      "16": {
+         "savemax": 250000000,
+         "levelup": 150000000,
+         "interest": 0.0049,
+         "level": " 究神级会员"
+      },
+      "17": {
+         "savemax": 520000000,
+         "levelup": 350000000,
+         "interest": 0.005,
+         "level": " 终神级会员"
+      },
+      "18": {
+         "savemax": 840000000,
+         "levelup": 600000000,
+         "interest": 0.0051,
+         "level": " 黄神级会员"
+      },
+      "19": {
+         "savemax": 1200000000,
+         "levelup": 900000000,
+         "interest": 0.0052,
+         "level": " 玄神级会员"
+      },
+      "20": {
+         "savemax": 1500000000,
+         "levelup": 1300000000,
+         "interest": 0.0053,
+         "level": " 地神级会员"
+      },
+      "21": {
+         "savemax": 1800000000,
+         "levelup": 2000000000,
+         "interest": 0.0054,
+         "level": " 天神级会员"
+      },
+      "22": {
+         "savemax": 2500000000,
+         "levelup": 0,
+         "interest": 0.0055,
+         "level": " 宇宙级会员"
+      }
+   }
+}

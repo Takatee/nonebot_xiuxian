@@ -1,0 +1,51 @@
+{
+   "光灵根" : {
+    "type_rate" : 3,
+    "type_list" : ["光属性灵根"],
+    "type_speeds" : 1.2,
+    "type_power_rate" : 1.3,
+    "type_flag" : []
+  },
+  "暗灵根" : {
+    "type_rate" : 3,
+    "type_list" : ["暗属性灵根"],
+    "type_speeds" : 1.2,
+    "type_power_rate" : 1.3,
+    "type_flag" : []
+  },
+   "天灵根" : {
+    "type_rate" : 18,
+    "type_list" : ["金属性灵根","木属性灵根","水属性灵根","火属性灵根","土属性灵根"],
+    "type_speeds" : 1.1,
+    "type_power_rate" : 1.1,
+    "type_flag" : []
+  },
+   "地灵根" : {
+    "type_rate" : 13,
+    "type_list" : ["金木双属性灵根","金水双属性灵根","金火双属性灵根","金土双属性灵根","木水双属性灵根","木火双属性灵根","木土双属性灵根","水火双属性灵根","水土双属性灵根","火土双属性灵根"],
+    "type_speeds" : 0.8,
+    "type_power_rate" : 1.2,
+    "type_flag" : []
+  },
+  "人灵根" : {
+    "type_rate" : 20,
+    "type_list" : ["金木水三属性灵根","金木火三属性灵根","金木土三属性灵根","金水火三属性灵根","金水土三属性灵根","金火土三属性灵根","木水火三属性灵根","木水土三属性灵根","木火土三属性灵根","水火土三属性灵根"],
+    "type_speeds" : 0.7,
+    "type_power_rate" : 1.3,
+    "type_flag" : []
+  },
+  "伪灵根" : {
+    "type_rate" : 30,
+    "type_list" : ["金木水火四属性灵根","金木水土四属性灵根","金木火土四属性灵根","金水火土四属性灵根","木水火土四属性灵根"],
+    "type_speeds" : 0.6,
+    "type_power_rate" : 1.5,
+    "type_flag" : []
+  },
+  "废灵根" : {
+    "type_rate" : 3,
+    "type_list" : ["五属性灵根"],
+    "type_speeds" : 0.5,
+    "type_power_rate" : 1.8,
+    "type_flag" : []
+  }
+}

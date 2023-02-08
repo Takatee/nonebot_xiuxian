@@ -1,0 +1,419 @@
+{
+  "7001": {
+    "name": "精铁符剑",
+    "atk_buff": 0.04,
+    "crit_buff": 0,
+    "rank": 90,
+    "level": "下品符器",
+    "type": "装备"
+  },
+  "7002": {
+    "name": "桃木符剑",
+    "atk_buff": 0,
+    "crit_buff": 0.08,
+    "rank": 97,
+    "level": "下品符器",
+    "type": "装备"
+  },
+  "7003": {
+    "name": "精元符剑",
+    "atk_buff": 0.02,
+    "crit_buff": 0.04,
+    "rank": 97,
+    "level": "下品符器",
+    "type": "装备"
+  },
+  "7011": {
+    "name": "火铜符剑",
+    "atk_buff": 0.06,
+    "crit_buff": 0,
+    "rank": 92,
+    "level": "上品符器",
+    "type": "装备"
+  },
+  "7012": {
+    "name": "青玉符剑",
+    "atk_buff": 0,
+    "crit_buff": 0.12,
+    "rank": 92,
+    "level": "上品符器",
+    "type": "装备"
+  },
+  "7013": {
+    "name": "灵气剑",
+    "atk_buff": 0.03,
+    "crit_buff": 0.06,
+    "rank": 92,
+    "level": "上品符器",
+    "type": "装备"
+  },
+  "7021": {
+    "name": "辟邪惊雷尺",
+    "atk_buff": 0.08,
+    "crit_buff": 0,
+    "rank": 89,
+    "level": "下品法器",
+    "type": "装备"
+  },
+  "7022": {
+    "name": "七星剑",
+    "atk_buff": 0,
+    "crit_buff": 0.16,
+    "rank": 89,
+    "level": "下品法器",
+    "type": "装备"
+  },
+  "7023": {
+    "name": "流光剑",
+    "atk_buff": 0.04,
+    "crit_buff": 0.08,
+    "rank": 89,
+    "level": "下品法器",
+    "type": "装备"
+  },
+  "7031": {
+    "name": "金光镜",
+    "atk_buff": 0.1,
+    "crit_buff": 0,
+    "rank": 86,
+    "level": "上品法器",
+    "type": "装备"
+  },
+  "7032": {
+    "name": "阴阳夺魂针",
+    "atk_buff": 0,
+    "crit_buff": 0.2,
+    "rank": 86,
+    "level": "上品法器",
+    "type": "装备"
+  },
+  "7033": {
+    "name": "山河鼎",
+    "atk_buff": 0.05,
+    "crit_buff": 0.1,
+    "rank": 86,
+    "level": "上品法器",
+    "type": "装备"
+  },
+  "7041": {
+    "name": "离地焰光旗",
+    "atk_buff": 0.12,
+    "crit_buff": 0.1,
+    "rank": 83,
+    "level": "下品纯阳法器",
+    "type": "装备"
+  },
+  "7042": {
+    "name": "青萍剑",
+    "atk_buff": 0,
+    "crit_buff": 0.24,
+    "rank": 83,
+    "level": "下品纯阳法器",
+    "type": "装备"
+  },
+  "7043": {
+    "name": "千重峰",
+    "atk_buff": 0.06,
+    "crit_buff": 0.12,
+    "rank": 83,
+    "level": "下品纯阳法器",
+    "type": "装备"
+  },
+  "7051": {
+    "name": "五火七禽扇",
+    "atk_buff": 0.14,
+    "crit_buff": 0,
+    "rank": 80,
+    "level": "上品纯阳法器",
+    "type": "装备"
+  },
+  "7052": {
+    "name": "青莲宝色旗",
+    "atk_buff": 0,
+    "crit_buff": 0.28,
+    "rank": 80,
+    "level": "上品纯阳法器",
+    "type": "装备"
+  },
+  "7053": {
+    "name": "嗜魂幡",
+    "atk_buff": 0.07,
+    "crit_buff": 0.14,
+    "rank": 80,
+    "level": "上品纯阳法器",
+    "type": "装备"
+  },
+  "7061": {
+    "name": "绝仙剑",
+    "atk_buff": 0.16,
+    "crit_buff": 0,
+    "rank": 77,
+    "level": "下品通天法器",
+    "type": "装备"
+  },
+  "7062": {
+    "name": "落魂钟",
+    "atk_buff": 0,
+    "crit_buff": 0.32,
+    "rank": 77,
+    "level": "下品通天法器",
+    "type": "装备"
+  },
+  "7063": {
+    "name": "乾天剑",
+    "atk_buff": 0.08,
+    "crit_buff": 0.16,
+    "rank": 77,
+    "level": "下品通天法器",
+    "type": "装备"
+  },
+  "7071": {
+    "name": "乾坤尺",
+    "atk_buff": 0.18,
+    "crit_buff": 0,
+    "rank": 74,
+    "level": "上品通天法器",
+    "type": "装备"
+  },
+  "7072": {
+    "name": "天地五方旗",
+    "atk_buff": 0,
+    "crit_buff": 0.36,
+    "rank": 74,
+    "level": "上品通天法器",
+    "type": "装备"
+  },
+  "7073": {
+    "name": "红线遁光针",
+    "atk_buff": 0.09,
+    "crit_buff": 0.18,
+    "rank": 74,
+    "level": "上品通天法器",
+    "type": "装备"
+  },
+  "7081": {
+    "name": "陨仙",
+    "atk_buff": 0.2,
+    "crit_buff": 0,
+    "rank": 71,
+    "level": "下品仙器",
+    "type": "装备"
+  },
+  "7082": {
+    "name": "惊雷",
+    "atk_buff": 0,
+    "crit_buff": 0.4,
+    "rank": 71,
+    "level": "下品仙器",
+    "type": "装备"
+  },
+  "7083": {
+    "name": "承影",
+    "atk_buff": 0.1,
+    "crit_buff": 0.2,
+    "rank": 71,
+    "level": "下品仙器",
+    "type": "装备"
+  },
+  "7091": {
+    "name": "无影剑",
+    "atk_buff": 0.12,
+    "crit_buff": 0.24,
+    "rank": 68,
+    "level": "上品仙器",
+    "type": "装备"
+  },
+  "7092": {
+    "name": "风云幡",
+    "atk_buff": 0,
+    "crit_buff": 0.48,
+    "rank": 68,
+    "level": "上品仙器",
+    "type": "装备"
+  },
+  "7093": {
+    "name": "青竹蜂云剑",
+    "atk_buff": 0.24,
+    "crit_buff": 0,
+    "rank": 68,
+    "level": "上品仙器",
+    "type": "装备"
+  },
+  "7094": {
+    "name": "纤云流霜剑",
+    "atk_buff": 0.2,
+    "crit_buff": 0.15,
+    "rank": 68,
+    "level": "上品仙器",
+    "type": "装备"
+  },
+  "7095" :{
+    "name":"孤云利格剑",
+    "atk_buff": 0.28,
+    "crit_buff": 0.1,
+    "rank": 65,
+    "level": "下品宇器",
+    "type": "装备"
+  },
+  "7096" :{
+    "name":"符文历王剑",
+    "atk_buff": 0.2,
+    "crit_buff": 0.2,
+    "rank": 65,
+    "level": "下品宇器",
+    "type": "装备"
+  },
+  "7097":{
+    "name":"纪念武器-非非的未来电脑",
+    "atk_buff": 0,
+    "crit_buff": 0.15,
+    "rank": 1,
+    "level": "纪念武器",
+    "type": "装备"
+  },
+  "7098":{
+    "name":"纪念武器-一条咸鱼",
+    "atk_buff": 0,
+    "crit_buff": 0.15,
+    "rank": 1,
+    "level": "纪念武器",
+    "type": "装备"
+  },
+  "7099":{
+    "name":"纪念武器-书山无径",
+    "atk_buff": 0,
+    "crit_buff": 0.15,
+    "rank": 1,
+    "level": "纪念武器",
+    "type": "装备"
+  },
+  "7100":{
+    "name":"纪念武器-BK的绍兴hers咖啡店",
+    "atk_buff": 0,
+    "crit_buff": 0.1,
+    "rank": 1,
+    "level": "纪念武器",
+    "type": "装备"
+  },
+  "7101":{
+    "name":"纪念武器-冒蓝火的AK47",
+    "atk_buff": 0,
+    "crit_buff": 0.1,
+    "rank": 1,
+    "level": "纪念武器",
+    "type": "装备"
+  },
+  "7200" :{
+    "name":"聚灵棍",
+    "atk_buff": 0.25,
+    "crit_buff": 0.25,
+    "rank": 62,
+    "level": "上品宇器",
+    "type": "装备"
+  },
+  "7201" :{
+    "name":"玄重尺",
+    "atk_buff": 0.3,
+    "crit_buff": 0.2,
+    "rank": 59,
+    "level": "上品宇器",
+    "type": "装备"
+  },
+  "7220" :{
+    "name":"百锻战刀",
+    "atk_buff": 0.47,
+    "crit_buff": 0,
+    "rank": 56,
+    "level": "下品宙器",
+    "type": "装备"
+  },
+  "7221" :{
+    "name":"霸碎宝刀",
+    "atk_buff": 0.38,
+    "crit_buff": 0.15,
+    "rank": 53,
+    "level": "下品宙器",
+    "type": "装备"
+  },
+  "7230" :{
+    "name":"魂怨幡",
+    "atk_buff": 0.18,
+    "crit_buff": 0.48,
+    "rank": 50,
+    "level": "上品宙器",
+    "type": "装备"
+  },
+  "7231" :{
+    "name":"三十三兽组合法器",
+    "atk_buff": 0.33,
+    "crit_buff": 0.33,
+    "rank": 47,
+    "level": "上品宙器",
+    "type": "装备"
+  },
+  "7240" :{
+    "name":"神算偶",
+    "atk_buff": 0.5,
+    "crit_buff": 0.1,
+    "rank": 44,
+    "level": "下品洪荒",
+    "type": "装备"
+  },
+  "7241" :{
+    "name":"拘魂珠",
+    "atk_buff": 0.13,
+    "crit_buff": 0.5,
+    "rank": 41,
+    "level": "下品洪荒",
+    "type": "装备"
+  },
+  "7250" :{
+    "name":"九修凤凰刀",
+    "atk_buff": 0.39,
+    "crit_buff": 0.39,
+    "rank": 38,
+    "level": "上品洪荒",
+    "type": "装备"
+  },
+  "7251" :{
+    "name":"太乙分光剑",
+    "atk_buff": 0.52,
+    "crit_buff": 0.28,
+    "rank": 35,
+    "level": "上品洪荒",
+    "type": "装备"
+  },
+  "7260" :{
+    "name":"动千山",
+    "atk_buff": 0.7,
+    "crit_buff": 0,
+    "rank": 32,
+    "level": "下品荒天",
+    "type": "装备"
+  },
+  "7261" :{
+    "name":"破军",
+    "atk_buff": 0,
+    "crit_buff": 0.7,
+    "rank": 29,
+    "level": "下品荒天",
+    "type": "装备"
+  },
+  "7270" :{
+    "name":"心",
+    "atk_buff": 0.68,
+    "crit_buff": 0.12,
+    "rank": 26,
+    "level": "上品荒天",
+    "type": "装备"
+  },
+  "7271" :{
+    "name":"天斩",
+    "atk_buff": 0.68,
+    "crit_buff": 0.68,
+    "rank": 20,
+    "level": "上品荒天",
+    "type": "装备"
+  }
+  
+}
